@@ -21,7 +21,7 @@ At Detroit Metropolitan Wayne County Airport (DTW), we are committed to maintain
 
 ### [Spatial_Analysis](./Spatial_Analysis): Contains code for mapping, summarizing, and ranking sites problematic to exclusion.
 * [Spatial_Data.R](./Spatial_Analysis/Spatial_Data.R) - Code to process and visualize landcover data; and calculate percent natural cover per buffered area.
-* [Ranking_Summary.R](./Spatial_Analysis/Ranking_Summary.R) - Code to 1) rank priority level of sites problematic to exclusion (based on landcover and perimeter-survey data) and produce summary statistics.
+* [Ranking_Summary.R](./Spatial_Analysis/Ranking_Summary.R) - Code to rank priority level of sites problematic to exclusion (based on landcover and perimeter-survey data) and produce summary statistics.
 
 ### [Species_Hazard_Ranking](./Species_Hazard_Ranking): Contains code to process strike data and rank relative hazard level of species.
 * [Species_Ranking.R](./Species_Hazard_Ranking/Species_Ranking.R) - Code to process data exported from the FAA strike database.
