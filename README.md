@@ -1,8 +1,10 @@
-# Wildlife Exclusion and Management Assessment:<br>A Coyote Case Study
+# Wildlife Exclusion and Management Assessment: A Coyote Case Study
 
 ### [Steven Gurney](https://linktr.ee/gurneyst), [Austin Messing](), [Selena Creed]()
 
-### Manuscript: Wayne County Airport Authority<br>Airfield Operations, Wildlife Division<br>Special Publication No. 25-01
+### Manuscript: Wayne County Airport Authority Airfield Operations, Wildlife Division, Special Publication No. 25-01
+
+#### Please contact the first author for questions about the code or data: Steven M. Gurney (steven.m.gurney@gmail.com)
 
 This repository includes code for wrangling, cleaning, analyzing, and visualizing data associated with the DTW Coyote Project. Most data are security sensitive and housed with the DTW Wildlife Team's special-publication repository.
 
