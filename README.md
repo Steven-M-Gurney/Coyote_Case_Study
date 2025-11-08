@@ -26,3 +26,6 @@ At Detroit Metropolitan Wayne County Airport (DTW), we are committed to maintain
 ### [Species_Hazard_Ranking](./Species_Hazard_Ranking): Contains code to process strike data and rank relative hazard level of species.
 * [Species_Ranking.R](./Species_Hazard_Ranking/Species_Ranking.R) - Code to process data exported from the FAA strike database.
 * [Strike_Data_Prep.R](./Species_Hazard_Ranking/Strike_Data_Prep.R) - Code to analyze strike metrics and produce relative hazard results by species.
+
+## Supplemental Information
+* Relative [video presentation](https://youtu.be/CAUvHTNuZgo) given to AAAE Wildlife Management and BSC USA working group (Operations & Policy Committee), June 2025.
